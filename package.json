@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "ansi-styles": "^3.2.1",
+    "chalk": "^2.4.1"
+  },
+  "name": "nice-console",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "wcastand <wcastand@gmail.com> (https://github.com/wcastand)",
+  "license": "MIT"
+}
