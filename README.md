@@ -44,5 +44,5 @@ If you want to show an object for example you'll have to use the node's util for
 
 `console.log("object : %o", myobj)`
 
-You can find ore information here : [util](https://nodejs.org/api/util.html#util_util_format_format_args)
+You can find more information here : [util](https://nodejs.org/api/util.html#util_util_format_format_args)
 
