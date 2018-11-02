@@ -1,14 +1,14 @@
 {
-  "name": "nice-console",
+  "name": "niceuho",
   "version": "0.0.1",
-  "main": "dist/nice-console.js",
-  "umd:main": "dist/nice-console.umd.js",
-  "module": "dist/nice-console.mjs",
+  "main": "dist/niceuho.js",
+  "umd:main": "dist/niceuho.umd.js",
+  "module": "dist/niceuho.mjs",
   "source": "index.js",
   "scripts": {
     "build": "microbundle -i index.js -o dist",
     "dev": "microbundle watch",
-    "prepublish": "npm run build && npm run test",
+    "prepare": "npm run build && npm run test",
     "test": "tape test.js"
   },
   "author": "wcastand <wcastand@gmail.com> (https://github.com/wcastand)",
