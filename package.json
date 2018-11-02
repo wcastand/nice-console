@@ -11,6 +11,10 @@
     "prepare": "npm run build && npm run test",
     "test": "tape test.js"
   },
+  "files": [
+    "dist/*",
+    "index.js"
+  ],
   "author": "wcastand <wcastand@gmail.com> (https://github.com/wcastand)",
   "license": "MIT",
   "dependencies": {
